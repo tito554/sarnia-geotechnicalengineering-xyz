@@ -1,0 +1,52 @@
+# Geotechnicalengineering — Sarnia
+
+> Geotechnical engineering services in Sarnia, Canada.
+
+## Services
+- [Anchors](https://sarnia.geotechnicalengineering.xyz/anchors/)
+- [Atterberg Limits](https://sarnia.geotechnicalengineering.xyz/atterberg-limits/)
+- [Cbr Road](https://sarnia.geotechnicalengineering.xyz/cbr-road/)
+- [Cpt Test](https://sarnia.geotechnicalengineering.xyz/cpt-test/)
+- [Deep Excavations](https://sarnia.geotechnicalengineering.xyz/deep-excavations/)
+- [Excavation Monitoring](https://sarnia.geotechnicalengineering.xyz/excavation-monitoring/)
+- [Excavations](https://sarnia.geotechnicalengineering.xyz/excavations/)
+- [Flexible Pavement](https://sarnia.geotechnicalengineering.xyz/flexible-pavement/)
+- [Footings](https://sarnia.geotechnicalengineering.xyz/footings/)
+- [Foundations](https://sarnia.geotechnicalengineering.xyz/foundations/)
+- [Geophysics](https://sarnia.geotechnicalengineering.xyz/geophysics/)
+- [Grain Size](https://sarnia.geotechnicalengineering.xyz/grain-size/)
+- [Ground Improvement](https://sarnia.geotechnicalengineering.xyz/ground-improvement/)
+- [Grouting](https://sarnia.geotechnicalengineering.xyz/grouting/)
+- [In Situ Permeability](https://sarnia.geotechnicalengineering.xyz/in-situ-permeability/)
+- [Investigation](https://sarnia.geotechnicalengineering.xyz/investigation/)
+- [Lab In Situ](https://sarnia.geotechnicalengineering.xyz/lab-in-situ/)
+- [Laboratory](https://sarnia.geotechnicalengineering.xyz/laboratory/)
+- [Liquefaction](https://sarnia.geotechnicalengineering.xyz/liquefaction/)
+- [Masw](https://sarnia.geotechnicalengineering.xyz/masw/)
+- [Mat Foundations](https://sarnia.geotechnicalengineering.xyz/mat-foundations/)
+- [Piles](https://sarnia.geotechnicalengineering.xyz/piles/)
+- [Plate Load Test](https://sarnia.geotechnicalengineering.xyz/plate-load-test/)
+- [Resistivity](https://sarnia.geotechnicalengineering.xyz/resistivity/)
+- [Retaining Walls](https://sarnia.geotechnicalengineering.xyz/retaining-walls/)
+- [Rigid Pavement](https://sarnia.geotechnicalengineering.xyz/rigid-pavement/)
+- [Road Geotechnics](https://sarnia.geotechnicalengineering.xyz/road-geotechnics/)
+- [Sand Cone Density](https://sarnia.geotechnicalengineering.xyz/sand-cone-density/)
+- [Seismic](https://sarnia.geotechnicalengineering.xyz/seismic/)
+- [Seismic Isolation](https://sarnia.geotechnicalengineering.xyz/seismic-isolation/)
+- [Seismic Microzonation](https://sarnia.geotechnicalengineering.xyz/seismic-microzonation/)
+- [Seismic Refraction](https://sarnia.geotechnicalengineering.xyz/seismic-refraction/)
+- [Slope Stability](https://sarnia.geotechnicalengineering.xyz/slope-stability/)
+- [Slopes](https://sarnia.geotechnicalengineering.xyz/slopes/)
+- [Soft Ground Tunnels](https://sarnia.geotechnicalengineering.xyz/soft-ground-tunnels/)
+- [Spt Drilling](https://sarnia.geotechnicalengineering.xyz/spt-drilling/)
+- [Stone Columns](https://sarnia.geotechnicalengineering.xyz/stone-columns/)
+- [Test Pits](https://sarnia.geotechnicalengineering.xyz/test-pits/)
+- [Triaxial](https://sarnia.geotechnicalengineering.xyz/triaxial/)
+- [Vibrocompaction](https://sarnia.geotechnicalengineering.xyz/vibrocompaction/)
+
+## Contact
+- Website: https://sarnia.geotechnicalengineering.xyz/
+
+## About
+This site provides geotechnical engineering services in Sarnia, Canada.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
